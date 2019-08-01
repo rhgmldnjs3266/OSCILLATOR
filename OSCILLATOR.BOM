@@ -1,0 +1,27 @@
+"  Revised: Thursday, August 01, 2019"					
+          Revision: 					
+					
+					
+					
+					
+					
+					
+					
+"Bill Of Materials         August 1,2019      12:24:51"	Page1				
+					
+Item	Quantity	Reference	Part	Price	Sum
+______________________________________________					
+					
+1	1	C1	0.001uF                    	200 200
+2	1	C2	270pF                   	200	200
+3	4	"C3,C4,C5,C6"	0.1uF       	200	800
+4	1	J1	CON2	                    100	100
+5	1	J2	CON3	                    100	100
+6	8	"R1,R3,R4,R6,R8,R9,R10,R11"	10k	10	80
+7	1	R2	100k                       	10	10
+8	1	R5	62k	                        10	10
+9	1	R7	1M	                        20	10
+10	4	"U1,U2,U3,U4"	LF351       	400	1600
+11	1	U5	LM7812C/TO220	            400	400
+12	1	U6	LM7912C/TO220	            400	400
+				                        	3910
